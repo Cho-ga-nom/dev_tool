@@ -1,8 +1,8 @@
 {
   "name": "dev-tool",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Game project support tool",
+  "author": "choganom",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
